@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiIntentApp</string>
+    <string name="welcome_touch_on_a_botton_to_continue">Welcome, Touch on a botton to continue.</string>
+    <string name="SEND_TO" />
+</resources>
